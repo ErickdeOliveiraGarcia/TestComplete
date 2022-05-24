@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{13900EFD-CA8D-4791-B239-C86C90711235}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="0" kind="0" dateTime="44703.6716435185" objectName="Aliases.explorer.wndShell_SecondaryTrayWnd.WorkerW.MSTaskListWClass" objectLeft="108" objectTop="0" objectRight="2521" objectBottom="30" clickPointX="544" clickPointY="10" imageFileName="tcvi510655906234881.png" storageFileName="" needUpdate="True" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="44703.6717939815" objectName="Aliases.browser.pageDominandoOTestcompleteUdemy.sectionCarregado31.videoWebhd720pMp4" objectLeft="0" objectTop="0" objectRight="1366" objectBottom="768" clickPointX="694" clickPointY="378" imageFileName="tcvi51066890673681.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="44703.6718171296" objectName="Aliases.Orders.MainForm.OrdersView" objectLeft="8" objectTop="79" objectRight="733" objectBottom="399" clickPointX="-1733" clickPointY="-109" imageFileName="tcvi51067064092846.png" storageFileName="" needUpdate="True" rectColor="255" />
+	</data>
+</Root>

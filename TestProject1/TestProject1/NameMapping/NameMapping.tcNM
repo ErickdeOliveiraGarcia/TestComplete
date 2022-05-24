@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{1416BAD9-9CA6-4C2D-A1ED-705D9762BCDA}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="explorer" Key="{6D1A5784-DCBB-4337-93A5-28F573018248}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndShell_SecondaryTrayWnd" Key="{96561E3E-3152-4316-AFDE-7E9027BDB591}">
+								<Image FileName="2028072067" Left="0" Top="0" Right="2560" Bottom="30" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Shell_SecondaryTrayWnd" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="WorkerW" Key="{7CD9F5F6-3783-4C47-89AE-FF7500D018B2}">
+										<Image FileName="2028072067" Left="108" Top="0" Right="2521" Bottom="30" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="WorkerW" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="MSTaskListWClass" Key="{25415838-F4DF-4BDD-9E44-1484C3F23AFB}">
+												<Image FileName="2028072067" Left="108" Top="0" Right="2521" Bottom="30" />
+												<TypeInfo Item0="{CB4E284C-6166-4E68-A95D-0F03718A2A15}" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="MSTaskListWClass" />
+													</Property>
+												</Properties>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{F2F51846-2C81-47F1-BFAC-EEB384FD5000}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{ED4CD5CF-8139-480F-98ED-DB40AD59500B}">
+								<Image FileName="1010580763" Left="0" Top="0" Right="1366" Bottom="768" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageDominandoOTestcompleteUdemy" Key="{380E6D0C-98AF-4923-B452-9F04BB11E040}">
+								<Image FileName="1010580763" Left="0" Top="0" Right="1366" Bottom="767" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://www.udemy.com/course/dominando-o-testcomplete/learn/lecture/25034588*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="sectionCarregado31" Key="{49A1C42E-5D47-4150-BDB6-DB922989C9C6}">
+										<Image FileName="1010580763" Left="0" Top="0" Right="1366" Bottom="768" />
+										<Selectors>
+											<Selector>
+												<Value Value="//section[contains(., &apos;Carregado: 31%%&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section[contains(@class, &apos;lecture-view--container--pL22J&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//section" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="videoWebhd720pMp4" Key="{6E8D8820-CFC7-40F3-9150-7B37BDA616D2}">
+										<Image FileName="1010580763" Left="0" Top="0" Right="1366" Bottom="768" />
+										<TypeInfo Item0="{53376695-C6FE-44D4-A583-B427E96AD0BD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//video[contains(@src, &apos;WebHD_720p.mp4&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//video[contains(@class, &apos;vjs-tech&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//video" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="Orders" Key="{2875505B-4ACB-4A55-B858-C809E7C2A77C}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="Orders" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="MainForm" Key="{ECCDF507-8B3C-48D3-B612-A6EA87003AEC}">
+								<Image FileName="-413067851" Left="0" Top="0" Right="741" Bottom="429" />
+								<TypeInfo Item0="{564AFCAC-EE42-4BAB-86D4-ECCED6217967}" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="MainForm" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="OrdersView" Key="{BF6FFA6A-1325-41C2-9C16-E93ECFDA1BC8}">
+										<Image FileName="-1796155692" Left="8" Top="79" Right="733" Bottom="399" />
+										<TypeInfo Item0="{A4C2171A-5DA8-4B18-B7E2-C895B6A7B69B}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="OrdersView" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="explorer" Owner="{6D1A5784-DCBB-4337-93A5-28F573018248}">
+			<Child Name="wndShell_SecondaryTrayWnd" Owner="{96561E3E-3152-4316-AFDE-7E9027BDB591}">
+				<Child Name="WorkerW" Owner="{7CD9F5F6-3783-4C47-89AE-FF7500D018B2}">
+					<Child Name="MSTaskListWClass" Owner="{25415838-F4DF-4BDD-9E44-1484C3F23AFB}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="browser" Owner="{F2F51846-2C81-47F1-BFAC-EEB384FD5000}">
+			<Child Name="BrowserWindow" Owner="{ED4CD5CF-8139-480F-98ED-DB40AD59500B}" />
+			<Child Name="pageDominandoOTestcompleteUdemy" Owner="{380E6D0C-98AF-4923-B452-9F04BB11E040}">
+				<Child Name="sectionCarregado31" Owner="{49A1C42E-5D47-4150-BDB6-DB922989C9C6}">
+					<Child Name="videoWebhd720pMp4" Owner="{6E8D8820-CFC7-40F3-9150-7B37BDA616D2}" />
+				</Child>
+			</Child>
+		</Child>
+		<Child Name="Orders" Owner="{2875505B-4ACB-4A55-B858-C809E7C2A77C}">
+			<Child Name="MainForm" Owner="{ECCDF507-8B3C-48D3-B612-A6EA87003AEC}">
+				<Child Name="OrdersView" Owner="{BF6FFA6A-1325-41C2-9C16-E93ECFDA1BC8}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
