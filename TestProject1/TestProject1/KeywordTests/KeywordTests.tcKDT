@@ -1,4 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
-	<children />
+	<children>
+		<child name="ComparandoArquivosTXTStoresFiles" key="{4FB4764B-1E63-437B-A8C8-B488373C2430}" path="ComparandoArquivosTXTStoresFiles.tcKDTest" />
+		<child name="PropertyCheckpoint" key="{4734C07A-E72B-4025-8B83-F4071689A981}" path="PropertyCheckpoint.tcKDTest" />
+		<child name="RegionCheckpoint" key="{F03075EB-525F-425A-9A4B-65B9B61CB8D1}" path="RegionCheckpoint.tcKDTest" />
+		<child name="tableCheckpoint" key="{EED644AE-99D5-4FD7-8A5D-D3A8AAD10806}" path="tableCheckpoint.tcKDTest" />
+		<child name="DataDrivenPart1" key="{169113AD-DC80-4E9F-A8B8-1F4177844B62}" path="DataDrivenPart1.tcKDTest" />
+		<child name="DataDrivenPart2_3_4" key="{8CF43BE1-992E-4D7D-B438-36478FA2E976}" path="DataDrivenPart2_3_4.tcKDTest" />
+		<child name="DataDrivenPart5" key="{9E56187A-E785-4060-A3E8-6F41DE98AE45}" path="DataDrivenPart5.tcKDTest" />
+		<child name="Test3" key="{63D6F82F-FDD7-4C5E-A3FD-5959C87B6733}" path="Test3.tcKDTest" />
+		<child name="DtaDrivenNewTest" key="{F2CEAEBC-93EE-4A48-941A-73299E675B68}" path="DtaDrivenNewTest.tcKDTest" />
+	</children>
 </Root>

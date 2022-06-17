@@ -1,0 +1,4 @@
+﻿function teste(){
+  aqObject.CheckProperty(Aliases.Orders.OrderForm.Group.CardNo, "wText", cmpEqual, "123456");
+
+}

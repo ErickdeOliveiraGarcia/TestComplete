@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{4FB4764B-1E63-437B-A8C8-B488373C2430}"/>
+		</Node>
+		<Node name="item 1">
+			<Prp name="stacktext" type="S" value="Test3()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+		</Node>
+		<Node name="message 0">
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="child index" type="I" value="0"/>
+			<Prp name="type" type="I" value="6"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;This test has a log associated with it.&lt;/p&gt;&lt;p style=&quot;margin-top: 12px;&quot;&gt;&lt;a href=&quot;logchild://{22FDE9A0-D052-47D7-86CC-B29C6656AEB6}&quot;&gt;View detailed logs&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="link" type="S" value="&lt;a rel=&quot;child&quot; href=&quot;0&quot;&gt;Details&lt;/a&gt;"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="44705.6858310417"/>
+			<Prp name="message" type="S" value="File Comparison Result [Arquivo_incorreto_RTF]"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="line no" type="I" value="0"/>
+		</Node>
+		<Node name="child data">
+			<Prp name="child 0" type="S" value="{22FDE9A0-D052-47D7-86CC-B29C6656AEB6}"/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 2">
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;p&gt;The test run has stopped because --&lt;/p&gt;&lt;ul&gt;&lt;li&gt;An error message was posted to the log and&lt;/li&gt;&lt;li&gt;The &lt;a href=&quot;aqa-help://6090&quot;&gt;On error&lt;/a&gt; project property is set to &quot;Stop project&quot; or &quot;Stop current item&quot;.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;If you don't want the test to stop on errors, set this property (&lt;b&gt;Project Editor &amp;rArr; Properties &amp;rArr; Playback&lt;/b&gt;), to &quot;Continue running&quot; or change your test commands so that they do not post errors to the log automatically. For example, if a window or process was not found, use WaitWindow, WaitProcess or similar methods to get the needed object.&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;aqa-help://2207&quot;&gt;Read More&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="stack end" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="44705.6858356481"/>
+			<Prp name="message" type="S" value="The test run has stopped because your test project is configured to stop on errors."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="stack beginning" type="I" value="1"/>
+			<Prp name="line no" type="I" value="0"/>
+		</Node>
+		<Node name="item 0">
+			<Prp name="stacktext" type="S" value="Test3()"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+		</Node>
+		<Node name="message 1">
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="type" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="remarks" type="S" value="&lt;html&gt;&lt;body&gt;&lt;a href=&quot;logchild://{22FDE9A0-D052-47D7-86CC-B29C6656AEB6}&quot;&gt;Show comparison results.&lt;/a&gt;&lt;br&gt;&lt;br&gt;The files &quot;Arquivo_incorreto_RTF&quot; and &quot;C:\Users\erick\OneDrive\fotos\Documentos\TestComplete 15 Projects\TestCompleteComparação\Arquivo correto .RTF&quot; are not equal. The files are of different size.&lt;br&gt;The size of the file &quot;Arquivo_incorreto_RTF&quot; is 186 bytes.&lt;br&gt;The size of the file &quot;C:\Users\erick\OneDrive\fotos\Documentos\TestComplete 15 Projects\TestCompleteComparação\Arquivo correto .RTF&quot; is 42216 bytes.&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;a href=&quot;projectnode://{AEBD731B-5A02-48E2-8318-0EE924184A16}&quot;&gt; Click here to show or modify data of the checkpoint &quot;Arquivo_incorreto_RTF&quot;. &lt;/a&gt;&lt;/p&gt;The difference between the compared files is significant. It is not recommended to increase the value of the Allowed Difference parameter as in this case, the different files will be considered as the same. &lt;a href=&quot;aqa-help://3061&quot;&gt;See help for more information.&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href=&quot;checkpointupdate://1|{0606873D-1781-4B99-BDCE-942B429A6D53}|{81A64820-56BD-46B4-8048-578E02EBB32E}|Arquivo_incorreto_RTF|CheckpointData\checkpoint_24_05_2022.bin|&quot;&gt;Update the &quot;Arquivo_incorreto_RTF&quot; checkpoint data.&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+			<Prp name="pictype" type="I" value="2"/>
+			<Prp name="stack end" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="date" type="D" value="44705.6858345949"/>
+			<Prp name="message" type="S" value="The file checkpoint &quot;Arquivo_incorreto_RTF&quot; failed. See Details for additional information."/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="stack beginning" type="I" value="0"/>
+			<Prp name="line no" type="I" value="0"/>
+		</Node>
+		<Prp name="status" type="I" value="2"/>
+	</Node>
+</Nodes>

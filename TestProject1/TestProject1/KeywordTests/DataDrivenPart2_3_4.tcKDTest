@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{AAC59C83-EBE1-46F2-AE16-D876BA1268DF}" Tags="aasasaaaaaaaaaaaa" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.explorer" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A13E79BCDDE43F0CA39B0E1307D1C8722627FEFF87E1733D66FF61182606A361E2201A2606A23DCE21F0B58916FF6118591CC4868983686439FF0BFFFFC3F09DA956FF61182606A361E2201A2606A2832F21F0DD6956FF89C1C87AC22EFFFF0FC3F7E7BA11D40F5203530FA2A3AE20F0999D5DFF1F2E0EC68B416A90F5C45DFDFF9F129C74EDFF7F4A70DAF5FFFF29C13577FFFFC785F36EFDFF9F75133F669872FD3F362C3EFFEEFF82739FFF37DCFB8F134F7AFCFF3FC3BCFBB871FDD6F30C9CBCA06C881BCC7FF09F011B2E5FBE9F81930FBF5EDCA6122D03009B4448FC" />
+					<Bitmap Name="Aliases.explorer.wndShell_SecondaryTrayWnd" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.explorer.wndShell_SecondaryTrayWnd.WorkerW" Data="61717A697000000001000000360400007801AD924B4B02511886DFA01FD04F68D92FF007B40C82A0562D5A4910EDDAB48A0ABA407659489B6A11512B8B36454582250CD8852CB58B76C12EE6E4781967C6716E6A73460D472D233AC377CE0CC3F39C77BE39ED9D966618C3A2CF6D7AB594AA09ADFA9D3E4AEF8B0FC5B980FFBBAC1D1634AA9F76DB5BB323E0BBC495F71C671E0A94DB0597731F1BAB4B989F1E33DC8DF8D0DD0D6EAFFD350EE7C16E4DB66A17D93FFCF488C7FB508DC3ED3A3478F12D08E1C957370BE13FE8285E5F9E4D8E8BB3137828B7C148CC2BC4C8C3B73C717C57A4B772220A8979ABCB97BF87F03945822665A0893CD44C1A2A9F84928E434EC52027A38D794DA97128C4C1E90E3666E2ABFF39D95FA6C39022F7C88603C83E7821064F91B9A620F88F21F88E4CBC915716A16505687AD6F8E61CF81D3BB8AD19B0EB23482D0F2161EF47DCD60B66AA07B1892EDCDAAC5F2797F0795546AEE4601CB3486E2F20E9B021B13E0E666518B1C541D0B37DA027BB111DED40C43E60E20B39CDE42039543E05954B406119BD67B4DEFB7753EECA7E17F279543A7246EF39A8026B72905E95B9F24AF2FFB6EAF165CF5FD64FAED21512" />
+					<Bitmap Name="Aliases.Orders" Data="61717A69700000000100000036040000780173F235636100033320A901C40250CCC8A000640101541EC2A11ED9D0D0F09F6CCCC0F0BF815C0CB217A8975470E0C001889DA3FA8745F881E293540C4E73B0F807A52112314C3F481F39E917A48F61100000133B6ACE" />
+					<Bitmap Name="Aliases.Orders.MainForm" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.Orders.OrderForm" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+					<Bitmap Name="Aliases.Orders.OrderForm.Group" Data="61717A697000000001000000360400007801CD925D48536118C70DBAB7D19990469A76D1282FEA625741D04D1048A0DE7491141274D127051383A20F226C057D6D1004E132953E6DB21B53C6100D8714C6DA09F3ACA2663306FB709ECDE339BFCE3953199C42D8550FFC1FDEF7F93FFFF779DEE77DF73539D75798E6D4FD761D1B96B1AEA24E5FE9B6CC173745EF69B1677C47B6520EBCADF6F9EEB65ACA35A3E6FFA0CFCDF4D277BC911F43E7F5AB68ABD7497D7A41C4778889BB8709DE6E632E1A4214C5557EA57F25F385BE6335BCBB6C233F3B62F29A22F3CDB793DEA376829D9B197209043A1A51165216BDA6E4085EDFC388AB92F4FBAB262FCF868978EA7973B28AAFFD079006DAF19FA926117E64D11B81E95727183C652339DC6AF239E93993EE2D8C5FAB26397A8E79C94FE8620DE293663455317356FA3736D9E90102A737F2F9B1531F81422E7A87F08D4D44BD0DC8330F29CC4D207AB711F13AC9FF9EB2E8D5429A709783D12B75C8F1617EBD6D27744920D6B31B25398E9289F1BDC7C10777AD5EEB99456F0412635D043B2A893EDDCBD84D07AFCF0AC4FD4D7A3B59B3E7F8CB5D4CB9AB48842EA02DC9E69F2DFD3F9AB280D8BD9FC95B0D0C76EE20E0AA2727156B19E76723F789DEB311EB3F882AFFB4E88D1CE3FD357551470175A9500C95F8C594849CF8086AFE1FFA92E43596A5F35F23F5AFB4A17FD02CA48D1994034F8B90F903282A33F0" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{94838C49-976F-4128-8B05-4E7C3E9C579D}">
+				<Data VariableType="4" VariableName="VarCorrect">
+					<Records FromBegin="True" ToEnd="True" StartRecord="1" StopIndex="1" />
+				</Data>
+				<Children>
+					<Operation Type="{28D3E73B-A718-4E67-96A3-4C49D5D4B340}">
+						<Data Description="Creates a log folder and makes it the current folder to which messages will be posted. This folder can contain messages of different types as well as subfolders.">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="MessageText" DefVarType="12" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="NOME" />
+								<Parameter Name="Details" DefVarType="12" VarType="8" ValueType="6" ValueValue="" />
+								<Parameter Name="Priority" DefVarType="12" DefValueType="1" DefValueValue="300" VarType="3" ValueType="1" ValueValue="300">
+									<Values IsEnum="True">
+										<Value Type="1" Value="100" Text="pmLowest" />
+										<Value Type="1" Value="200" Text="pmLower" />
+										<Value Type="1" Value="300" Text="pmNormal" />
+										<Value Type="1" Value="400" Text="pmHigher" />
+										<Value Type="1" Value="500" Text="pmHighest" />
+									</Values>
+								</Parameter>
+								<Parameter Name="Attrib" DefVarType="12" VarType="12" ValueType="0" ValueValue="0" />
+								<Parameter Name="OwnerFolderId" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+							</Parameters>
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the %p1 item of the &apos;%n&apos; toolbar." Action="ClickItem">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Item" DefVarType="12" VarType="3" ValueType="1" ValueValue="4" />
+								<Parameter Name="ByPosition" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="False" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.MainForm.ToolBar;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="50" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="6" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Customer;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="NOME" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Customer;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="RUA" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Street;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="CIDADE" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.City;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="ESTADO" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.State;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="CEP" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.Zip;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="42" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="7" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.CardNo;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="Text" DefVarType="8" ParamType="{874735FC-322E-4380-A0DD-AB0206EE8AA0}" VariableType="4" VariableName="VarCorrect" ColumnName="N_CARD" />
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.Group.CardNo;" />
+						</Data>
+					</Operation>
+					<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+						<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+							<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+								<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="52" />
+								<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="12" />
+								<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" ParamType="{2B146992-A675-4CF3-9B71-7EE4A1CA11B2}" Expression="">
+									<Values IsEnum="True">
+										<Value Type="1" Value="0" Text="skNoShift" />
+										<Value Type="1" Value="8192" Text="skShift" />
+										<Value Type="1" Value="32768" Text="skAlt" />
+										<Value Type="1" Value="16384" Text="skCtrl" />
+									</Values>
+								</Parameter>
+							</Parameters>
+							<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.Orders.OrderForm.ButtonOK;" />
+						</Data>
+					</Operation>
+					<Operation Type="{56B7409E-809F-4569-B55F-35534DDD66FF}">
+						<Data Description="Pops the folder that is currently at the top of the folder stack out of the stack. This makes the folder that will become the top of the stack the default folder of the test log." />
+					</Operation>
+				</Children>
+			</Operation>
+		</Children>
+	</TestData>
+	<Variables Version="4" Key="{229FADDF-423F-40DE-A325-E3D6CE078286}">
+		<Items>
+			<Variable Name="TesteOrdes" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="Var1" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="DataDrinpart2Teste" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="Teste" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="Var2" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="Var3" Type="DB Table" Local="False">
+				<DefValue Kind="{CE6E0605-AE4F-45D5-8174-7C99555F214B}">
+					<ConnectionInfo FileName="..\..\..\TestCompleteComparação\DataDriven.TXT" UseOLEDB="False" Delimiters="," UniteDelimiters="False" HasColumnNames="True" TextQualifier="&quot;" />
+				</DefValue>
+			</Variable>
+			<Variable Name="TesteDataDrivenLoop" Type="Table" Local="False">
+				<DefValue RowCount="5" ColumnCount="2">
+					<Columns ColumnName0="NOME" ColumnName1="RUA" />
+					<Row No="0" Cell0="Penelope Singleton" Cell1="36537 Henry St." />
+					<Row No="1" Cell0="Lila Mcguire" Cell1="90538 West Saint Kitts and Nevis Ave." />
+					<Row No="2" Cell0="Ina Conley" Cell1="86217 West Ingram St." />
+					<Row No="3" Cell0="Rooney Bender" Cell1="5033 Summers Way" />
+					<Row No="4" Cell0="Ava Keith" Cell1="5329 Nguyen Way" />
+				</DefValue>
+			</Variable>
+			<Variable Name="Var4" Type="Table" Local="False">
+				<DefValue RowCount="6" ColumnCount="6">
+					<Columns ColumnName0="NOME" ColumnName1="RUA" ColumnName2="CIDADE" ColumnName3="ESTADO" ColumnName4="CEP" ColumnName5="N__CART_O" />
+					<Row No="0" Cell0="Shafira Trujillo" Cell1="38679 Papua New Guinea Way" Cell2="Flagstaff" Cell3="Kansas" Cell4="1409000" Cell5Type="3" Cell5="695096029" />
+					<Row No="1" Cell0="Hashim Hamilton" Cell1="87767 Zambia Blvd." Cell2="New Rochelle" Cell3="New Mexico" Cell4="1409000" Cell5Type="3" Cell5="1676134351" />
+					<Row No="2" Cell0="Mikayla Willis" Cell1="43333 Mckenzie Ln." Cell2="Diamond Bar" Cell3="Kentucky" Cell4="1409000" Cell5Type="3" Cell5="878864581" />
+					<Row No="3" Cell0="Rebecca Myers" Cell1="94179 Tunisia Blvd." Cell2="Visalia" Cell3="Idaho" Cell4="1409000" Cell5Type="3" Cell5="653282785" />
+					<Row No="4" Cell0="Valentine Stein" Cell1="70961 Lebanon St." Cell2="South Pasadena" Cell3="Florida" Cell4="1409000" Cell5Type="3" Cell5="943091821" />
+					<Row No="5" Cell0="Myles Knight" Cell1="72832 Azerbaijan Ave." Cell2="Pendleton" Cell3="Maine" Cell4="1409000" Cell5Type="3" Cell5="1254659473" />
+				</DefValue>
+			</Variable>
+			<Variable Name="VarCorrect" Type="Table" Local="False">
+				<DefValue RowCount="6" ColumnCount="6">
+					<Columns ColumnName0="NOME" ColumnName1="RUA" ColumnName2="ESTADO" ColumnName3="CEP" ColumnName4="N_CARD" ColumnName5="CIDADE" />
+					<Row No="0" Cell0="Louis Miranda" Cell1="97411 Poland Way" Cell2="Rhode Island" Cell3="WU97 3DG" Cell4Type="3" Cell4="159585031" Cell5="Fort Smith" />
+					<Row No="1" Cell0="Salvador Moss" Cell1="5931 South Haiti Way" Cell2="Illinois" Cell3="F6 7CU" Cell4Type="3" Cell4="1157794309" Cell5="Culver City" />
+					<Row No="2" Cell0="Britanney Hood" Cell1="1432 East Delgado Blvd." Cell2="Oregon" Cell3="HA65 6YI" Cell4Type="3" Cell4="1307417563" Cell5="Hialeah" />
+					<Row No="3" Cell0="Fletcher Berg" Cell1="41002 East Huber Ave." Cell2="Tennessee" Cell3="UY90 5LN" Cell4Type="3" Cell4="552026575" Cell5="Jamestown" />
+					<Row No="4" Cell0="Ivy Cross" Cell1="59853 Tunisia Ln." Cell2="Texas" Cell3="HX24 3SR" Cell4Type="3" Cell4="1056603637" Cell5="Kennewick" />
+					<Row No="5" Cell0="Nina Sullivan" Cell1="46022 East Battle Way" Cell2="Michigan" Cell3="C1O 5MH" Cell4Type="3" Cell4="1060077151" Cell5="West Lafayette" />
+				</DefValue>
+			</Variable>
+		</Items>
+	</Variables>
+	<Parameters Key="{94470BE0-676E-44DF-90E7-93CA5CE1DCDD}" />
+</Root>

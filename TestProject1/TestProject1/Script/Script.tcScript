@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
-		<child name="Unit1" key="{DC7474C5-0613-46A6-94B4-EF98483BFB2A}" path="Unit1.js" />
+		<child name="NameMapping_e_ObjectBrowser" key="{995B2078-94AF-4F97-BEEE-83F53C175C6A}" path="NameMapping_e_ObjectBrowser.js" />
+		<child name="utilAddCheckpointWizard" key="{DF7E1779-0922-4468-A88B-9A2B66E79F84}" path="utilAddCheckpointWizard.js" />
+		<child name="HelloWords" key="{3C07BFFE-04DD-4170-8A53-6E88BF2B97AF}" path="HelloWords.js" />
+		<child name="RecordsScript" key="{739600CA-BC09-403E-B607-2A22B36C30BC}" path="RecordsScript.js" />
+		<child name="Newtest" key="{236BFD95-14A5-4F77-9E0A-672AFF90507E}" path="Newtest.js" />
 	</children>
 </Root>

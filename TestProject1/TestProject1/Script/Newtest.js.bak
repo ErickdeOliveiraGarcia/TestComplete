@@ -1,0 +1,3 @@
+﻿function teste(){
+Sys.Process("WINWORD").Form("Documento1 - Word").Window("_WwF", "", 1).Panel("Documento1").Panel("Documento do Microsoft Word").wText("asdasdasdad")
+}

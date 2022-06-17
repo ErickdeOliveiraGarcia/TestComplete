@@ -1,0 +1,4 @@
+Nome,Rua,Cidade,Estado,ZipCode,NumeroCartãoCredito
+Alan1,Rua1,Franca,SC,12345678,12345
+Alan2,Rua1,Franca,SC,12345678,12345
+Alan3,Rua1,Franca,SC,12345678,12345

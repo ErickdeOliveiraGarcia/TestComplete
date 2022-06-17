@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{48A5AF1C-C131-43B6-B74B-10A844966831}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps />
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{0C2E7372-2A09-499E-A447-2907ABD7FE30}">
+				<Data Description="Check whether %p2 matches the text optically recognized in the image %p1.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="SearchArea" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.Acrobat.wndAcrobatSDIWindow.AVFlipContainerView.AVDocumentMainView.AVFlipContainerView.AVSplitterView.AVSplitationPageView.AVSplitterView.AVScrolledPageView.AVScrollView.AVPageView" />
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="*Centro*" />
+					</Parameters>
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{1D6018AA-ED7A-45AE-B40D-EFEA97A927A0}" />
+</Root>

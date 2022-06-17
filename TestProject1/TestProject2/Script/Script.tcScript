@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
-		<child name="Unit1" key="{8E97A708-D4C5-437C-B2E8-D4A2F1F5AA43}" path="Unit1.js" />
+		<child name="NameMapping_1_2" key="{81D22BE0-E972-4BE6-819E-EAE3D295F356}" path="NameMapping_1_2.js" />
+		<child name="Region_Checkpoint_Script" key="{084BD863-F09A-4BA2-B739-F39B5A12B223}" path="Region_Checkpoint_Script.js" />
+		<child name="DataDriven" key="{25D225BF-1780-45DE-B26C-EAC162ECA132}" path="DataDriven.js" />
+		<child name="Unit1" key="{D4374AAD-76AF-40CD-93FB-9DF81F881AFE}" path="Unit1.js" />
 	</children>
 </Root>

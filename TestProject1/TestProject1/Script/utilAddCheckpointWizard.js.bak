@@ -1,0 +1,5 @@
+﻿function teste(){
+  aqObject.CheckProperty(Aliases.Orders.OrderForm.Group.CardNo, "wText", cmpEqual, "1234567");
+  aqObject.CheckProperty(Aliases.Orders.OrderForm.Group.CardNo, "wText", cmpEqual, "12345678");
+  aqObject.CheckProperty(Aliases.Processonotepad.windNotepad.Edit, "wText", cmpEqual, "Nome,Rua,Cidade,Estado,ZipCode,NumeroCartãoCredito\r\nAlan1,Rua1,Franca,SC,12345678,12345\r\nAlan2,Rua1,Franca,SC,12345678,12345\r\nAlan3,Rua1,Franca,SC,12345678,12345");
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" version="15.0">
+	<children>
+		<child name="Arquivo_incorreto_teste_01_TXT" key="{2ED5A768-68DA-4851-99FF-F3AD167D47DB}">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="15.0" caption="Arquivo_incorreto_teste_01_TXT" ID="{2ED5A768-68DA-4851-99FF-F3AD167D47DB}" FileName="..\..\..\TestCompleteComparação\Teste NameMapping\Arquivo incorreto teste 01.TXT" Update="False" />
+		</child>
+	</children>
+</Root>

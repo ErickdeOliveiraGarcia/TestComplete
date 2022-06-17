@@ -1,0 +1,8 @@
+﻿function teste(){
+
+ // DONE: Cénario - teste feito selecionando os componetes e comparando com .wText, foi usado NameMapping para renomear os processas e tbm foi feito testes com os nomes originais dos processos
+ 
+  NameMapping.Sys.Processonotepad.editNotepad.winNote.wText = "Teste igual"
+  Sys.Process("notepad").Window("Notepad", "Arquivo correto teste 01.TXT - Bloco de Notas", 1).Window("Edit", "", 1).wText = "Teste igual"
+}
+

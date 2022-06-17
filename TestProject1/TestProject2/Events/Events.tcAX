@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}" version="1400" key="{FBBB9D82-BB9F-424B-8551-205248A7E3FF}" typeId="{E7ABA87F-E873-4452-9921-6F4BAAEB2BCC}">
+	<config nodeName="Events" tlbHistory="&quot;TestComplete general events&quot;" />
+	<testData />
+	<data />
+	<children>
+		<child key="{2F2CB396-C806-4D06-BB93-027C07D49F5F}">
+			<config nodeName="EventControl1" lastOpenedTLB="" generatedCLSID="{E756692B-993B-49C1-9712-E03D791D9E48}" generatedTLBKey="{E4EBFAD2-C7C9-4445-8398-7EA12103B2A5}" generatedEventsKey="{F7838E50-3D2D-4FDB-B2CA-0ECCD1C438FF}" generatedTLBDesc="TestComplete EventControl1 Control - 17/06/2022 12:29:21">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743811" infoControlName="General Events" infoEventName="OnLogError" infoEventRealName="OnLogError" infoDescription="Occurs when an error message is posted to the test log." />
+				<handlerInfo handlerName="EventControl1_OnLogError" handlerMoniker="{D4374AAD-76AF-40CD-93FB-9DF81F881AFE}EventControl1_OnLogError" handlerEventName="OnLogError" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743811" />
+			</config>
+			<testData />
+			<data />
+		</child>
+		<child key="{9A67F5D6-32CD-4AB7-AD75-A0C92BE6E38A}">
+			<config nodeName="EventControl2" lastOpenedTLB="" generatedCLSID="{1563B0D9-2F39-4ABE-83A3-9F325A0D2766}" generatedTLBKey="{5E6F9170-C4B2-4AB4-93E3-623AFE22D81C}" generatedEventsKey="{E07068A4-3E6A-4B45-A4D2-2F9A3D9AA3C5}" generatedTLBDesc="TestComplete EventControl2 Control - 17/06/2022 12:53:11">
+				<eventInfo infoTLBVer="version.dll" infoGUID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" infoID="1610743818" infoControlName="General Events" infoEventName="OnUnexpectedWindow" infoEventRealName="OnUnexpectedWindow" infoDescription="Occurs when an unexpected window appears." />
+				<handlerInfo handlerName="EventControl2_OnUnexpectedWindow" handlerMoniker="{D4374AAD-76AF-40CD-93FB-9DF81F881AFE}EventControl2_OnUnexpectedWindow" handlerEventName="OnUnexpectedWindow" handlerRealIID="{4C03E9F2-BB22-4E21-B2E7-E51B754FCBBA}" handlerRealDispID="1610743818" />
+			</config>
+			<testData />
+			<data />
+		</child>
+	</children>
+</Root>

@@ -23,12 +23,129 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="44703.5541755324"/>
+				<Prp name="datetime" type="D" value="44728.9619229051"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{1A2D2C63-0A39-44CE-8726-C561DC5423F6}"/>
-				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test2]"/>
-				<Prp name="relpath" type="S" value="22_05_2022_13_18_00_766\Description.tcLog"/>
+				<Prp name="key" type="S" value="{B98F5118-7768-4421-9F71-34D12B0A805B}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="16_06_2022_23_05_10_139\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44728.9622871065"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F25E72F3-E2C3-4D3F-BFA0-BBF62516C297}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="16_06_2022_23_05_41_606\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4368533333"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{AA60CBCC-2221-4AC0-8B16-7F5D62316B67}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_29_04_128\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4395883102"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F0EB8A19-355A-4171-93CA-4B511DC27F9C}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_33_00_430\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4398361458"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{FB3BB7CA-D5C6-4719-AD9E-13A04ABF0356}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_33_21_843\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4404311806"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8121E205-DD8E-4C9E-BCD2-9D4477EE1165}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_34_13_254\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4427077546"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{73B4B2FE-DF83-45CF-AD31-D933BF0826DF}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_37_29_950\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0007">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4432226273"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{DBBC5BBC-DA09-4F53-8B57-CA4C6856B16A}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_38_14_435\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0008">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4435414005"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{7A38AB67-77D5-44F6-91BD-77BD58B9206D}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Web_Comparison_Cjeckpoint]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_38_41_977\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0009">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4453149884"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{8FBD21A0-3A78-4813-99C7-D758F6612CD1}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_41_15_215\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0010">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4484810301"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{97305E8C-C6B9-473D-8805-089CD19A509A}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_10_45_48_761\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0011">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.4952976736"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3F78B2E1-6A67-4B4B-9922-C039D659949C}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test3]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_11_53_13_719\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0012">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.5224561111"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{844050B5-92B3-4D00-B5DF-D25C63C10A66}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Unit1\disparandoUmEvento]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_12_32_20_209\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0013">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44729.5295851968"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{5DFAA8FA-5295-4319-930F-02A430DD1145}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [Unit1\disparandoUmEvento]"/>
+				<Prp name="relpath" type="S" value="17_06_2022_12_42_36_161\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>

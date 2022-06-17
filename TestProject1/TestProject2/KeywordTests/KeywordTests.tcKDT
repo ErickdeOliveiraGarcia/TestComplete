@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
 	<children>
-		<child name="Test2" key="{A41AB805-FDE1-47E5-8F3D-EC6E4A056BFF}" path="Test2.tcKDTest" />
+		<child name="File_Checkpoint" key="{A1C6C58C-5D75-41FB-A9BA-AE92B46C65BB}" path="File_Checkpoint.tcKDTest" />
+		<child name="Display_Object_Spy" key="{52D0E1C4-A000-4501-B0B6-803037BBAA3D}" path="Display_Object_Spy.tcKDTest" />
+		<child name="Property_Checkpoint" key="{87D7E673-B7F8-4008-A7CF-174091B4A21D}" path="Property_Checkpoint.tcKDTest" />
+		<child name="Region_Checkpoint" key="{A3A2543A-D5C3-4E67-93EC-43F9D6FC010B}" path="Region_Checkpoint.tcKDTest" />
+		<child name="Table_Checkpoint" key="{DE1CC32C-16E7-4992-A828-2AE7FD1BE9DC}" path="Table_Checkpoint.tcKDTest" />
+		<child name="Recording" key="{8187D278-D496-477A-94D2-9F6418B60623}" path="Recording.tcKDTest" />
+		<child name="Data_Driven_Loop" key="{9F4C193C-3500-4814-9E8F-D139816490F2}" path="Data_Driven_Loop.tcKDTest" />
+		<child name="Low_Level_Procedure" key="{B3F3532E-52FD-48DD-B583-944E61A0A101}" path="Low_Level_Procedure.tcKDTest" />
+		<child name="Ocr_Checkpoint" key="{4AFE81F1-5253-4726-BCA5-C338163D6C63}" path="Ocr_Checkpoint.tcKDTest" />
+		<child name="Web_Comparison_Cjeckpoint" key="{DF4574CF-A541-4338-9E5F-86AE3D46D436}" path="Web_Comparison_Cjeckpoint.tcKDTest" />
+		<child name="Web_Accessibility_Checkpoint" key="{CB66FD44-46B5-49CA-AF34-B2292E914D55}" path="Web_Accessibility_Checkpoint.tcKDTest" />
+		<child name="Recording_Web" key="{17487D89-9EDA-456F-A11D-1CC78BD3117A}" path="Recording_Web.tcKDTest" />
 	</children>
 </Root>
